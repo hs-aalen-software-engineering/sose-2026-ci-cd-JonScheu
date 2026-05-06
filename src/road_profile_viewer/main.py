@@ -12,10 +12,6 @@ for educational purposes). It creates an interactive Dash application that visua
 
 from road_profile_viewer.visualization import create_dash_app
 
-# =============================================================================
-# MAIN ENTRY POINT
-# =============================================================================
-
 
 def main() -> None:
     """
